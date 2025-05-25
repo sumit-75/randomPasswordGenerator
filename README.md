@@ -21,5 +21,5 @@ Copy to clipboard functionality (if applicable)
 Easy to use interface (CLI/GUI/Web)
 
 🛠️ Technologies Used
-[Programming Language] (e.g., JavaScript, Python, C++)
+[Programming Language] (e.g., JavaScript, HTML , CSS)
 
